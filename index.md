@@ -22,11 +22,11 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
-- [GitHub](https://github.com/tu-github/)
+- [LinkedIn](https://www.linkedin.com/in/hnlira/)
+- Correo electrónico a <hnlira@outlook.es>
+- [GitHub](https://github.com/hnlira)
 - [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
+- [Medium](https://medium.com/@hnlira)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
