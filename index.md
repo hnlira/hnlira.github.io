@@ -5,7 +5,7 @@
 ## Mi primer proyecto
 [Cómo analizar con R la relación entre población y ubicación de las escuelas en Villahermosa, Tabasco, México.](https://medium.com/pagina-entrada-blog)
 
-A partir de los datos del Censo de Población y Vivienda 2020 y el DENUE de INEGI se analiza con tidyverse, tmap y otras librerías de R si en Villahermosa, Tabasco hay una relación directa entre las zonas más pobladas y la ubicación de las escuelas.  [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
+A partir de los datos del Censo de Población y Vivienda 2020 y el DENUE de INEGI se analiza con si en Villahermosa, Tabasco hay una relación directa entre las zonas más pobladas y la ubicación de las escuelas. Esto con el apoyo del tidyverse, tmap y otras librerías del lenguaje de programación R. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
