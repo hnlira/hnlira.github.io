@@ -6,7 +6,7 @@
 
 Si no eres muy bueno con el QGIS o ArcGIS y te toca analizar datos de la Encuesta Origen Destino de la Zona Metropolitana del Valle de México 2017 (EODZMVM2017) te encontraras con el problema de que los límites de los distritos y las alcaldías municipios no son los mismos, pero no te preocupes, con este mapa interactivo te puedes ayudar. [Seguir leyendo en Medium] o [Ver código en GitHub](https://github.com/hnlira/EOD2017-interactivmap)
 
-[<img src="images/pob_esc.png?raw=true"/>](https://medium.com/@hnlira/cómo-analizar-con-r-la-relación-entre-población-y-ubicación-de-las-escuelas-en-villahermosa-60cc668ef269)
+[<img src="images/eod2017.png?raw=true"/>](https://medium.com/@hnlira/cómo-analizar-con-r-la-relación-entre-población-y-ubicación-de-las-escuelas-en-villahermosa-60cc668ef269)
 
 
 ## Mi primer proyecto
