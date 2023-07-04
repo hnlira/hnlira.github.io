@@ -35,4 +35,5 @@ A partir de los datos del Censo de Población y Vivienda 2020 y el DENUE de INEG
 - [Medium](https://medium.com/@hnlira)
 - [Mi CV](/pdf/CVLIRA.pdf)
 - [Datacamp](https://app.datacamp.com/profile/hnliral)
+
 ---
