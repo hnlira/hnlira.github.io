@@ -1,4 +1,4 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenida o Bienvenido a mi Portafolio de Ciencia de Datos
 
 ---
 ## Mapa interactivo
